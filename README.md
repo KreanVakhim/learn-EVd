@@ -14,6 +14,19 @@ My project is focus on ...
 - [ ] About page
 - [x] Service page
 
+### List
+Unorder List
+- one
+- tow
+- three
+    - other sub list
+    - ohko
+---
+Order List
+1. One
+2. tow
+3. three
+
 ### Screenshot
 ![alt text](image.png)
 ![alt text](image-1.png)
